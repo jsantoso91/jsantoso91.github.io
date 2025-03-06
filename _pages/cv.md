@@ -11,54 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Robotics Engineering, Worcester Polytechnic Institute, 2019
+* B.S. in Mechanical Engineering & Mathematics, Trinity College-Hartford, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **MathWorks** --- *2019-2024*
+  * Senior Software Engineer in Test
+  * Software Engineer in Test
+  * Application Support Engineer
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **American Robotics** --- *2017*
+  * Hardware Engineer Intern
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Amazon Robotics** --- *2015*
+  * Hardware Engineer Intern
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Programming Languages**: MATLAB, C, C++, Python
+* **Software/Tools**: Simulink, Visual Studio Code, Git/Github, Docker
+* **Operating Systems**: Windows, Linux, macOS
+* **Others**: Performance Testing, Exploratory Testing, Code Coverage, Troubleshooting, Debugging, Technical Support, Model Based Design, Project Management
