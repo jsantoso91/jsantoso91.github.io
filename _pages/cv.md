@@ -30,6 +30,6 @@ Work experience
 Skills
 ======
 * **Programming Languages**: MATLAB, C, C++, Python
-* **Software/Tools**: Simulink, Visual Studio Code, Git/Github, Docker
+* **Software/Tools**: Simulink, Visual Studio Code, Git/Github, Docker, Pytest, CMake, PyTorch, ROS2, MoveIt2, Gazebo, OpenCV.
 * **Operating Systems**: Windows, Linux, macOS
 * **Others**: Performance Testing, Exploratory Testing, Code Coverage, Troubleshooting, Debugging, Technical Support, Model Based Design, Project Management
